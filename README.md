@@ -1,4 +1,4 @@
-# Portfolio_website
+# Portfolio_Website
 ![image](https://github.com/mrdemer7/Portfolio_website/assets/117861145/d3c552ba-c174-4edb-aeb3-c754207da709)
 
 ![image](https://github.com/mrdemer7/Portfolio_website/assets/117861145/68667495-7403-4c1d-9418-8e4f7ff209c9)
